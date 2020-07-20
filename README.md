@@ -1,5 +1,4 @@
-# Ridge-i-homework
-This is the answer regarding homework that has been given to me for Ridge-i hiring selection.
+#practice
 This repository are cosisted my explanation, program, and approach to find the best model.
 Finally, I chose to train 50% all dataset training data to make dataset become balance rather than use different size of dataset.
 I also would like to report that by using tf.concat function makes the performance slow.
